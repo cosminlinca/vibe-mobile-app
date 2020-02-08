@@ -1,0 +1,2 @@
+include ':app', ':spotify-app-remote-release-0.6.0'
+rootProject.name='Vibe'
