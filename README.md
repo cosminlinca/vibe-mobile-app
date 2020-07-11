@@ -1,5 +1,12 @@
 # Vibe
 
+## Table of contents
+* [Description](#Description)
+* [Installation](#Installation)
+* [Visuals](#Visuals)
+* [Technologies](#Technologies)
+* [Licence](#Licence)
+
 ## Description
 
 Vibe it's a music player developed in Kotlin, based on Spotify API. <br>
@@ -20,9 +27,8 @@ install the application.
 that you are connected on a valid premium account (that will let you to change the songs from the Vibe application).
 
 ## Visuals
-<img src="images//Screenshot_20200711_232359_com.mp.vibe.jpg" width="220">
-<img src="images//Screenshot_20200711_232435_com.mp.vibe.jpg" width="220">
-<img src="images//Screenshot_20200711_232414_com.mp.vibe.jpg" width="220">
+<img src="images//Screenshot_20200711_232359_com.mp.vibe.jpg" width="220"> <img src="images//Screenshot_20200711_232435_com.mp.vibe.jpg" width="220"> <img src="images//Screenshot_20200711_232414_com.mp.vibe.jpg" width="220">
+
 <img src="images//Screenshot_20200711_232428_com.mp.vibe.jpg" width="220">
 <img src="images//Screenshot_20200711_232441_com.mp.vibe.jpg" width="220">
 
