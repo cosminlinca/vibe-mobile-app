@@ -29,8 +29,7 @@ that you are connected on a valid premium account (that will let you to change t
 ## Visuals
 <img src="images//Screenshot_20200711_232359_com.mp.vibe.jpg" width="220"> <img src="images//Screenshot_20200711_232435_com.mp.vibe.jpg" width="220"> <img src="images//Screenshot_20200711_232414_com.mp.vibe.jpg" width="220">
 
-<img src="images//Screenshot_20200711_232428_com.mp.vibe.jpg" width="220">
-<img src="images//Screenshot_20200711_232441_com.mp.vibe.jpg" width="220">
+<img src="images//Screenshot_20200711_232428_com.mp.vibe.jpg" width="220"> <img src="images//Screenshot_20200711_232441_com.mp.vibe.jpg" width="220">
 
 ## Technologies
 - Kotlin 1.3.7
